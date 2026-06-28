@@ -31,3 +31,4 @@ Currently exploring:
 
 - [Portfolio](https://quentinlecoq.fr/)
 - [LinkedIn](https://www.linkedin.com/in/quentin-lecoq/)
+- Email: [hello@quentinlecoq.fr](mailto:hello@quentinlecoq.fr)
