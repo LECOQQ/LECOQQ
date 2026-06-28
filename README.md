@@ -29,5 +29,5 @@ Currently exploring:
 
 ## 📫 Links
 
-- Portfolio: coming soon
+- [Portfolio](https://quentinlecoq.fr/)
 - [LinkedIn](https://www.linkedin.com/in/quentin-lecoq/)
